@@ -63,7 +63,7 @@
       <section id="INTRO" class="screen active center">
         <span class="chip">Demo navegable</span>
         <h1>Bienvenido alumnito 🎉</h1>
-        <p>Descubre tu universidad, reta tu cultura y ríe con quizzes rápidos. No necesitas internet para este demo HTML.</p>
+        <p>Reta tu cultura y ríe con quizzes rápidos. No necesitas internet para este demo HTML.</p>
         <div class="row">
           <button class="btn primary" onclick="go('HOME_Menu')">Comenzar</button>
         </div>
